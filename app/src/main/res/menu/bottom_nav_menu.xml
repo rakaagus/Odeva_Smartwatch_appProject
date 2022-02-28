@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/dashboard_selector"
+        android:title="@string/title_dashboard" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/book_selector"
+        android:title="@string/title_manual_book" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/warranry_selectror"
+        android:title="@string/title_warranty" />
+
+</menu>
